@@ -1,0 +1,2 @@
+Width(nm)	Absorbed Photons	Ratio absorbed	Check	Photocurrent(mA/cm2)
+0.0005	1.2610756798166626e+21	84.78849669669333	100.00050517976271	20.204659879079223
